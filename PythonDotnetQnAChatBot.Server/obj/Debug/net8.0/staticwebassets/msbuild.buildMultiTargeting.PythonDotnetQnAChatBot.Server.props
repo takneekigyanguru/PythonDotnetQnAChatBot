@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PythonDotnetQnAChatBot.Server.props" />
+</Project>

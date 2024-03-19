@@ -1,0 +1,54 @@
+[
+  {
+    "Question": "What is AWS?",
+    "Answer": "AWS stands for Amazon Web Services. It is a comprehensive, evolving cloud computing platform provided by Amazon that includes a mixture of IaaS, PaaS, and SaaS offerings."
+  },
+  {
+    "Question": "What are the benefits of using AWS?",
+    "Answer": "AWS offers scalability, cost-effectiveness, flexibility, reliability, and security."
+  },
+  {
+    "Question": "What are the different types of EC2 instances?",
+    "Answer": "EC2 instances come in various types such as general purpose, compute optimized, memory optimized, and storage optimized."
+  },
+  {
+    "Question": "What is an S3 bucket?",
+    "Answer": "An S3 bucket is a container for storing objects, which can be files, images, videos, or any other type of data."
+  },
+  {
+    "Question": "What is IAM and why is it important?",
+    "Answer": "IAM (Identity and Access Management) allows you to manage access to AWS resources securely by controlling user permissions."
+  },
+  {
+    "Question": "What is VPC and how does it work?",
+    "Answer": "VPC (Virtual Private Cloud) is a virtual network dedicated to your AWS account, providing control over network settings and resource deployment."
+  },
+  {
+    "Question": "What is CloudFormation?",
+    "Answer": "AWS CloudFormation is a service that allows you to create and manage AWS infrastructure as code using templates."
+  },
+  {
+    "Question": "What is the difference between S3 and EBS?",
+    "Answer": "S3 is object storage designed for storing and retrieving large amounts of data, while EBS provides block-level storage for EC2 instances."
+  },
+  {
+    "Question": "What is auto scaling in AWS?",
+    "Answer": "Auto Scaling automatically adjusts the number of EC2 instances in response to changes in demand, helping to maintain performance and minimize costs."
+  },
+  {
+    "Question": "How does AWS Lambda work?",
+    "Answer": "AWS Lambda is a serverless compute service that runs code in response to events, automatically scaling and managing the underlying infrastructure."
+  },
+  {
+    "Question": "What is tgg channel?",
+    "Answer": "tgg is a devops and cloud chanel."
+  },
+  {
+    "Question": "who is tggcloud",
+    "Answer": "tggcloud is an engineer who lives in delhi"
+  },
+  {
+    "Question": "who is tggdevops",
+    "Answer": "tggdevops is a Youtube channel who creates DevOps tutorials"
+  }
+]
